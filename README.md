@@ -75,8 +75,8 @@ attendance integration, and cut bot registrations by 99% with honeypot-based sec
 
 | | |
 | :--- | :--- |
-| 🎓 **BS, Computer Science** | Iqra University, Karachi, Pakistan · 09/2019 — 05/2024 |
-| 📜 **AWS Certified Cloud Practitioner** | Amazon Web Services |
+|  **BS, Computer Science** | Iqra University, Karachi, Pakistan · 09/2019 — 05/2024 |
+|  **AWS Certified Cloud Practitioner** | Amazon Web Services |
 
 <img src="https://img.shields.io/badge/-1f6feb?style=flat-square" width="100%" height="3" alt="" />
 
