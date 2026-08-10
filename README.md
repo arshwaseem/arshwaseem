@@ -41,7 +41,7 @@ that survives contact with production.
 <tr>
 <td width="50%" valign="top">
 
-**Now** &nbsp;·&nbsp; Java Backend Developer Intern (Spring Boot) @ **Callsign**<br/>
+**Now** &nbsp;·&nbsp; Software Engineering Intern (Spring Boot) @ **Callsign**<br/>
 <sub>Abu Dhabi, UAE · 05/2025 — 07/2025</sub>
 
 Architected high-throughput security transactions on a distributed microservices architecture
